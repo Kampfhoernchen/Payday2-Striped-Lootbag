@@ -1,9 +1,15 @@
 # Payday2-Striped-Lootbag
-This is a texture Mod for Payday2 to change the look of the Lootbags.
+This is a texture Mod for Payday 2 to change the look of the Lootbags.
 
  <p align="center">
-  <img src="http://abload.de/img/20160320193040_1z6snd.jpg" width="420"/>
-  <img src="http://abload.de/img/pd2mcwesteleicht6buqj.png" width="420"/>
+  <img src="http://abload.de/img/20160321002136_1bjsqx.jpg" width="420"/>
+  <img src="http://abload.de/img/20160320235130_10fsec.jpg" width="420"/>
+  <i>(Click to view bigger version)</i>
+</p>
+
+ <p align="center">
+  <img src="http://abload.de/img/20160320220908_18wsul.jpg" width="420"/>
+  <img src="http://abload.de/img/20160321002114_120s8l.jpg" width="420"/>
   <i>(Click to view bigger version)</i>
 </p>
 
