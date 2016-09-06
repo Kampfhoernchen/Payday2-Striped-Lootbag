@@ -3,13 +3,13 @@ This is a texture Mod for Payday 2 to change the look of the Lootbags.
 
  <p align="center">
   <img src="http://abload.de/img/20160321002136_1bjsqx.jpg" width="420"/>
-  <img src="http://abload.de/img/20160320235130_10fsec.jpg" width="420"/>
+  <img src="http://abload.de/img/20160320235130_10fsec.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 
  <p align="center">
   <img src="http://abload.de/img/20160320220908_18wsul.jpg" width="420"/>
-  <img src="http://abload.de/img/20160321002114_120s8l.jpg" width="420"/>
+  <img src="http://abload.de/img/20160321002114_120s8l.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 
